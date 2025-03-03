@@ -1,0 +1,15 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+PGP is short for Pretty Good Privacy, a security program that enables users to communicate securely by decrypting and encrypting messages, authenticating messages through digitalasdasd signatures, and encrypting files. It was one of the first freely available forms of public-key cryptography software.
+-----BEGIN PGP SIGNATURE-----
+
+iQEyBAEBCAAdFiEEsaiCxFxVDen1+aObCSOej6UAXWUFAmfFJ4QACgkQCSOej6UA
+XWUDoAf41U/gXZdo4yLIvFhlqT/Z6fAbS89OjjXwX0VzmVO1xNf1524sMnqxO6wG
+iNvKiE+o7nR13mv6m+D+9kY5MjdmVKGdZ4VfL+9za6dKzDHZjrG0IM3k1A0uWQNw
+Hq06a0IaI/SzImxbXzNH+AaubxnYBaSeDm/iqcSPo1haKCi7gdQiq0GFsJgUwk6c
+kFDLvoroqM1ruVJhml3eMgO4UTciqRiBKqRmZUxG08NfDOC/q7XUMSCtR04IX4Al
+BClnzfgcMoug4N5oFWcYj5ov3tLYv80Iu0eUN4MC9PRocyhLMiOKyiKIoT1EfhaZ
+Egq1IS2RxuplA8iaYcrKBwNkgBJW
+=2Y2C
+-----END PGP SIGNATURE-----

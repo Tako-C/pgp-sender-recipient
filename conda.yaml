@@ -1,0 +1,10 @@
+name: test_pgp
+channal: 
+  - conda-forge
+
+dependencies:
+  - python=3.12
+  - pip
+  - pip:
+    - python-gnupg==0.5.4       #http://pypi.org/project/python-gnupg/
+    - pycryptodome==3.21.0      #https://pypi.org/project/pycryptodome/

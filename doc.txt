@@ -1,0 +1,1 @@
+PGP is short for Pretty Good Privacy, a security program that enables users to communicate securely by decrypting and encrypting messages, authenticating messages through digitalasdasd signatures, and encrypting files. It was one of the first freely available forms of public-key cryptography software.
